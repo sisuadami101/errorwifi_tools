@@ -2,7 +2,6 @@ import os
 import subprocess
 import json
 import qrcode
-from cryptography.fernet import Fernet
 from speedtest import Speedtest
 import tkinter as tk
 import speech_recognition as sr
